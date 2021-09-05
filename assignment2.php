@@ -1,0 +1,1 @@
+The Googleplex is the corporate headquarters complex of Google and its parent company Alphabet Inc. It is located at 1600 Amphitheatre Parkway in Mountain View, California, United States.
