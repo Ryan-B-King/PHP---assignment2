@@ -1,3 +1,10 @@
+<?php  // Variable List
+$business = "Googleplex"; //business name variable
+$street = "1600 Amphitheatre Parkway"; //street address variable 
+$city = "Mountain View"; //city variable
+$state = "California"; //state variable
+$country = "United States"; //country variable
+?>
 <!DOCTYPE html> <!--Ryan King-->
 <html lang="en">
 <head>
@@ -7,20 +14,18 @@
 </head>
 <body>
 <?php // PHP coding begins
-$business = "Googleplex"; //business name variable
-$street = "1600 Amphitheatre Parkway"; //street address variable 
-$city = "Mountain View"; //city variable
-$state = "California"; //state variable
-$country = "United States"; //country variable
 
-print "<h1>$business</h1>
+print 
+"<header>
+    <h1>$business</h1>
+</header>
 <p>
 The $business is the corporate headquarters complex of Google and its parent company Alphabet Inc. It is located at:
 </br>
  $street
  </br>
  $city, $state, $country
- </p>"  //PHP output
+ </p>"  //PHP print output
 
 ?>
 </body>
